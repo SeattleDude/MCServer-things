@@ -1,2 +1,2 @@
 ECHO OFF
-java -Xms2024M -Xmx2024M -jar server.jar nogui
+java -Xms2048M -Xmx2048M -jar server.jar nogui
